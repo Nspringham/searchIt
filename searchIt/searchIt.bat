@@ -1,2 +1,2 @@
-@py.exe C:\Users\Nick\Documents\programming\Python\searchIt.py %*
+@py.exe C:\Path\To\Your\Python\File.py %*
 @pause
