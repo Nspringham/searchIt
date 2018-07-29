@@ -3,7 +3,7 @@ Provides a one click script to search google using your default browser with the
 
 This will also work as a command line function using the prefix:
 
-`$ searchIt \<your search query\>`
+`$ searchIt <your search query>`
 
 Try binding this script to a mouse/keyboard button!
 
